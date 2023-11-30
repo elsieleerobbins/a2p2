@@ -1,4 +1,4 @@
-﻿Utility Name,Ownership,SAIDI (minutes per year) All Events (With Major Event Days),SAIFI (times per year) All Events (With Major Event Days),CAIDI (minutes per interruption) All Events (With Major Event Days),SAIDI (hours per year) All Events (With Major Event Days),CAIDI (hours per interruption) All Events (With Major Event Days)
+﻿UtilityName,Ownership,SAIDI_mins,SAIFI,CAIDI_mins,SAIDI_hours,CAIDI_hours
 Alger-Delta Co-op Electric,Cooperative,194.13,1.008,192.589,3.2355,3.209816667
 Cherryland Electric Co-op,Cooperative,487.669,1.36,358.58,8.127816667,5.976333333
 Cloverland Electric Co-op,Cooperative,"1,019.50",3.87,263.437,16.99166667,4.390616667
