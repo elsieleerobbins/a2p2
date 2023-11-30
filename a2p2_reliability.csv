@@ -1,0 +1,24 @@
+﻿Utility Name,Ownership,SAIDI (minutes per year) All Events (With Major Event Days),SAIFI (times per year) All Events (With Major Event Days),CAIDI (minutes per interruption) All Events (With Major Event Days),SAIDI (hours per year) All Events (With Major Event Days),CAIDI (hours per interruption) All Events (With Major Event Days)
+Alger-Delta Co-op Electric,Cooperative,194.13,1.008,192.589,3.2355,3.209816667
+Cherryland Electric Co-op,Cooperative,487.669,1.36,358.58,8.127816667,5.976333333
+Cloverland Electric Co-op,Cooperative,"1,019.50",3.87,263.437,16.99166667,4.390616667
+Midwest Energy Co-op,Cooperative,765.8,2.7,283.63,12.76333333,4.727166667
+Presque Isle Elec & Gas Co-op,Cooperative,"1,379.20",2.849,484.1,22.98666667,8.068333333
+Tri-County Electric Co-op,Cooperative,378,1.63,231.902,6.3,3.865033333
+Great Lakes Energy Co-op,Cooperative,"1,221.42",3.25,375.823,20.357,6.263716667
+Alpena Power,Investor Owned,243.8,1.8,135.444,4.063333333,2.2574
+Consumers Energy,Investor Owned,911.2,1.601,569.144,15.18666667,9.485733333
+DTE Electric,Investor Owned,927.404,1.581,586.593,15.45673333,9.77655
+Indiana Michigan Power,Investor Owned,912.1,2.016,452.431,15.20166667,7.540516667
+Northern States Power,Investor Owned,562.2,2.112,266.193,9.37,4.43655
+Upper Peninsula Power,Investor Owned,273.4,1.48,184.73,4.556666667,3.078833333
+Upper Michigan Energy Resources,Investor Owned,779,2.15,362.326,12.98333333,6.038766667
+City of Bay City,Municipal,81.386,0.817,99.616,1.356433333,1.660266667
+Coldwater Board of Public Util,Municipal,17.059,0.087,196.08,0.284316667,3.268
+City of Grand Haven,Municipal,165.06,1.384,119.263,2.751,1.987716667
+City of Holland,Municipal,30.82,0.49,62.898,0.513666667,1.0483
+City of Lansing,Municipal,104.165,1.411,73.824,1.736083333,1.2304
+City of Marquette,Municipal,41.92,0.52,80.615,0.698666667,1.343583333
+City of Traverse City,Municipal,37.156,0.34,109.282,0.619266667,1.821366667
+Wyandotte Municipal Serv,Municipal,62.456,0.229,272.734,1.040933333,4.545566667
+City of Zeeland,Municipal,3.797,0.109,34.835,0.063283333,0.580583333
